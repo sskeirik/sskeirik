@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.freepik.com/free-ai-image/_137496235.htm" style="font-size:8px;">Avatar by FreePik</a>
+<a href="https://www.freepik.com/free-ai-image/_137496235.htm"><sub>Avatar by FreePik</sub></a>
